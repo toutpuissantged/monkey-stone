@@ -1,5 +1,6 @@
 
 # Monkey JS
+![](docs/images/monkey_stone_js-removebg-preview.png)
   [![Monkey JS](https://img.shields.io/badge/monkey-js-blue.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)
   [![javascript](https://img.shields.io/badge/javascript-ES6-blue.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)
   [![npm](https://img.shields.io/npm/v/monkey-js.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)
