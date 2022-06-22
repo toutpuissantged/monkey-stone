@@ -1,11 +1,31 @@
 {
-  "name": "monkey",
+  "name": "monkey-stone",
   "version": "1.0.0",
-  "description": "[![Monkey JS](https://img.shields.io/badge/monkey-js-blue.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)\r   [![javascript](https://img.shields.io/badge/javascript-ES6-blue.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)\r   [![npm](https://img.shields.io/npm/v/monkey-js.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)\r   [![npm](https://img.shields.io/npm/dm/monkey-js.svg?style=flat-square)](https://www.npmjs.com/package/monkey-js)\r ## What is a monkey js ?",
+  "description": "Monkey Js is a new generation javascript library that allows us to use incredible responsiveness with vanilla javascript",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toutpuissantged/monkey-js.git"
   },
-  "author": "toutpuissantged",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "toutpuissantged",
+    "email": "amoussougedeon13@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "toutpuissantged",
+      "email": "amoussougedeon13@gmail.com"
+    }
+  ],
+  "keywords": [
+    "javascript",
+    "javascrit-library",
+    "monkey",
+    "react",
+    "HTML"
+  ],
   "license": "MIT"
 }
